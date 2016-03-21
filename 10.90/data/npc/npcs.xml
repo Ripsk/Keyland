@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcs>
+	<!--
+		<npc name="Bankman Billy" file="bankman billy.xml"/>
+		<npc name="Cityguard" file="cityguard.xml"/>
+		<npc name="Helmut" file="helmut.xml"/>
+		<npc name="Lua82Example Merchant" file="Lua82Example.xml"/>
+		<npc name="Mailman Maily" file="mailman maily.xml"/>
+		<npc name="Merchant Glut" file="merchant glut.xml"/>
+		<npc name="The Oracle" file="oracle the second.xml"/>
+		<npc name="Oracle" file="oracle.xml"/>
+		<npc name="Ruby" file="ruby.xml"/>
+	-->
+
+	<npc name="The Oracle" file="The Oracle.lua"/>
+	<npc name="Lola" file="Lola.xml"/>
+	<npc name="Nimral" file="Nimral.xml"/>
+	<npc name="Riona" file="Riona.xml"/>
+	<npc name="Soya" file="Soya.xml"/>
+	<npc name="The Forgotten King" file="The Forgotten King.xml"/>
+	<npc name="The Oracle" file="The Oracle.xml"/>
+	<npc name="Timral" file="Timral.xml"/>
+	<npc name="Tyoric" file="Tyoric.xml"/>
+	<npc name="Varkhal" file="Varkhal.xml"/>
+	<npc name="Varkhal_2" file="Varkhal_2.xml"/>
+	<!-- NPCS letra A
+	-->
+	<npc name="A Bearded Woman" file="A Bearded Woman.xml"/>
+	<npc name="A Beautiful Girl" file="A Beautiful Girl.xml"/>
+	<npc name="A Beggar" file="A Beggar.xml"/>
+	<npc name="A Behemoth" file="A Behemoth.xml"/>
+	<npc name="A Dead Bureaucrat1" file="A Dead Bureaucrat1.xml"/>
+	<npc name="A Dead Bureaucrat2" file="A Dead Bureaucrat2.xml"/>
+	<npc name="A Dead Bureaucrat3" file="A Dead Bureaucrat3.xml"/>
+	<npc name="A Dead Bureaucrat4" file="A Dead Bureaucrat4.xml"/>
+	<npc name="A Dragon Lord" file="A Dragon Lord.xml"/>
+	<npc name="A Drillworm.xml" file="A Drillworm.xml"/>
+	<npc name="A Dwarven Ghost" file="A Dwarven Ghost.xml"/>
+	<npc name="A Fading Memory" file="A Fading Memory.xml"/>
+	<npc name="A Fluffy Squirrel" file="A Fluffy Squirrel"/>
+	<npc name="A Frog" file="A Frog.xml"/>
+	<npc name="A Ghostly Guardian" file="A Ghostly Guardian.xml"/>
+	<npc name="A Ghostly Knight" file="A Ghostly Knight"/>
+	<npc name="A Ghostly Sage" file="A Ghostly Sage.xml"/>
+	<npc name="A Ghostly Woman" file="A Ghostly Woman.xml"/>
+	<npc name="A Grumpy Cyclops" file="A Grumpy Cyclops.xml"/>
+	<npc name="A Lost Basher" file="A Lost Basher.xml"/>
+	<npc name="A Lost Husher" file="A Lost Husher"/>
+	<npc name="A Lost Soul" file="A Lost Soul.xml"/>
+	<npc name="A Lost Thrower" file="A Lost Thrower.xml"/>
+	<npc name="A Majestic Warwolf" file="A Majestic Warwolf.xml"/>
+	<npc name="A Majestic Wolf" file="A Majestic Wolf.xml"/>
+	<npc name="A mystic man" file="A mystic man.xml"/>
+	<npc name="A Nightmare Scion" file="A Nightmare Scion.xml"/>
+	<npc name="A Prisoner" file="A Prisoner.xml"/>
+	<npc name="A Restless Soul" file="A Restless Soul.xml"/>
+	<npc name="A Sleeping Dragon" file="A Sleeping Dragon.xml"/>
+	<npc name="A Starving Dog" file="A Starving Dog.xml"/>
+	<npc name="A Strange Fellow" file="A Strange Fellow.xml"/>
+	<npc name="A Sweaty Cyclops" file="A Sweaty Cyclops.xml"/>
+	<npc name="A Tainted Soul" file="A Tainted Soul.xml"/>
+	<npc name="A Tortured Soul" file="A Tortured Soul.xml"/>
+	<npc name="A Vulcongra" file="A Vulcongra.xml"/>
+	<npc name="A Wrinkled Beholder" file="A Wrinkled Beholder.xml"/>
+	<npc name="A Wyrm" file="A Wyrm.xml"/>
+	<npc name="Abran Ironeye" file="Abran Ironeye.xml"/>
+	<npc name="Addon" file="Addon.xml"/>
+	<npc name="Admiral Wyrmslicer" file="Admiral Wyrmslicer.xml"/>
+	<npc name="Adrenius" file="Adrenius.xml"/>
+	<npc name="Ahmet" file="Ahmet.xml"/>
+	<npc name="Ajax" file="Ajax.xml"/>
+	<npc name="Al Dee" file="Al Dee.xml"/>
+	<npc name="Alaistar" file="Alaistar.xml"/>
+	<npc name="Albert" file="Albert.xml"/>
+	<npc name="Aldo" file="Aldo.xml"/>
+	<npc name="Alesar" file="Alesar.xml"/>
+	<npc name="Alexander" file="Alexander.xml"/>
+	<npc name="Alia" file="Alia.xml"/>
+	<npc name="Alice" file="Alice.xml"/>
+	<npc name="Allen" file="Allen.xml"/>
+	<npc name="Alternative Rock" file="Alternative Rock.xml"/>
+	<npc name="Alwin" file="Alwin.xml"/>
+	<npc name="Amanda" file="Amanda.xml"/>
+	<npc name="Amarie" file="Amarie.xml"/>
+	<npc name="Amber" file="Amber.xml"/>
+	<npc name="An Ancient Priest" file="An Ancient Priest.xml"/>
+	<npc name="An Apparition" file="An Apparition.xml"/>
+	<npc name="An Old Dragonlord" file="An Old Dragonlord.xml"/>
+	<npc name="An Orc Guard" file="An Orc Guard.xml"/>
+	<npc name="Anderson" file="Anderson.xml"/>
+	<npc name="Anerui" file="Anerui.xml"/>
+	<npc name="Aneus" file="Aneus.xml"/>
+	<npc name="Angelina" file="Angelina.xml"/>
+	<npc name="Angus" file="Angus.xml"/>
+	<npc name="Appaloosa" file="Appaloosa.xml"/>
+	<npc name="Ariella" file="Ariella.xml"/>
+	<npc name="Arit" file="Arit.xml"/>
+	<npc name="Arkhothep" file="Arkhothep.xml"/>
+	<npc name="Arkothep" file="Arkothep.xml"/>
+	<npc name="Arkuli" file="Arkuli.xml"/>
+	<npc name="Arkulius" file="Arkulius.xml"/>
+	<npc name="Armenius" file="Armenius.xml"/>
+	<npc name="Arnold" file="Arnold.xml"/>
+	<npc name="Aruda" file="Aruda.xml"/>
+	<npc name="Ashari" file="Ashari.xml"/>
+	<npc name="Ashtamor" file="Ashtamor.xml"/>
+	<npc name="Asima" file="Asima.xml"/>
+	<npc name="Asnarus" file="Asnarus.xml"/>
+	<npc name="Asrak" file="Asrak.xml"/>
+	<npc name="Atrad" file="Atrad.xml"/>
+	<npc name="Auron" file="Auron.xml"/>
+	<npc name="Avar Tar" file="Avar Tar.xml"/>
+	<npc name="Awareness Of The Emperor" file="Awareness Of The Emperor.xml"/>
+	<npc name="Azalea" file="Azalea.xml"/>
+	<npc name="Azil" file="Azil.xml"/>
+	<!-- NPCS letra B
+	-->
+	<npc name="Baa'leal" file="Baa'leal.xml"/>
+	<npc name="Baltim" file="Baltim.xml"/>
+	<npc name="Bambi Bonecrusher" file="Bambi Bonecrusher.xml"/>
+	<npc name="Banshee Queen" file="Banshee Queen.xml"/>
+	<npc name="Barazbaz" file="Barazbaz.xml"/>
+	<npc name="Barbara" file="Barbara.xml"/>
+	<npc name="Barney" file="Barney.xml"/>
+	<npc name="Barry" file="Barry.xml"/>
+	<npc name="Bashira" file="Bashira.xml"/>
+	<npc name="Basilisk" file="Basilisk.xml"/>
+	<npc name="Baxter" file="Baxter.xml"/>
+	<npc name="Beatrice" file="Beatrice.xml"/>
+	<npc name="Benjamin" file="Benjamin.xml"/>
+	<npc name="Berenice" file="Berenice.xml"/>
+	<npc name="Bertha" file=".Berthaxml"/>
+	<npc name="Bertram" file="Bertram.xml"/>
+	<npc name="Bezil" file="Bezil.xml"/>
+	<npc name="Bigfoot Soldier" file="Bigfoot Soldier.xml"/>
+	<npc name="Bill The Worker" file="Bill The Worker.xml"/>
+	<npc name="Billy" file="Billy.xml"/>
+	<npc name="Black Bert" file="Black Bert.xml"/>
+	<npc name="Blind Orc" file="Blind Orc.xml"/>
+	<npc name="Blossom Bonecrusher" file="Blossom Bonecrusher.xml"/>
+	<npc name="Bob The Worker" file="Bob The Worker.xml"/>
+	<npc name="Bolfona" file="Bolfona.xml"/>
+	<npc name="Bonifacius" file="Bonifacius.xml"/>
+	<npc name="Boozer" file="Boozer.xml"/>
+	<npc name="Bo'Ques" file="Bo'Ques.xml"/>
+	<npc name="Borkas" file="Borkas.xml"/>
+	<npc name="Boveas" file="Boveas.xml"/>
+	<npc name="Bozo" file="Bozo.xml"/>
+	<npc name="Braden" file="Braden.xml"/>
+	<npc name="Bron" file="Bron.xml"/>
+	<npc name="Bruce" file="Bruce.xml"/>
+	<npc name="Bruno" file="Bruno.xml"/>
+	<npc name="Buddel Helheim" file="Buddel Helheim.xml"/>
+	<npc name="Buddel Okolnir" file="Buddel Okolnir.xml"/>
+	<npc name="Buddel Raider Camp" file="Buddel Raider Camp.xml"/>
+	<npc name="Buddel Tyrsung" file="Buddel Tyrsung.xml"/>
+	<npc name="Buddel" file="Buddel.xml"/>
+	<npc name="Budrik" file="Budrik.xml"/>
+	<npc name="Bunny Bonecrusher" file="Bunny Bonecrusher.xml"/>
+	<!-- NPCS letra C
+	-->
+	<npc name="Cael" file="Cael.xml"/>
+	<npc name="Cameron" file="Cameron.xml"/>
+	<npc name="Captain Bluebear" file="Captain Bluebear.xml"/>
+	<npc name="Captain Breezelda" file="Captain Breezelda.xml"/>
+	<npc name="Captain Chelop" file="Captain Chelop.xml"/>
+	<npc name="Captain Cookie" file="Captain Cookie.xml"/>
+	<npc name="Captain Fearless" file="Captain Fearless.xml"/>
+	<npc name="Captain Greyhound" file="Captain Greyhound.xml"/>
+	<npc name="Captain Haba" file="Captain Haba.xml"/>
+	<npc name="Captain HabaOpenSea" file="Captain HabaOpenSea.xml"/>
+	<npc name="Captain Jack" file="Captain Jack.xml"/>
+	<npc name="Captain Max Calassa" file="Captain Max Calassa.xml"/>
+	<npc name="Captain Max" file="Captain Max.xml"/>
+	<npc name="Captain Seagull" file="Captain Seagull.xml"/>
+	<npc name="Captain Seahorse" file="Captain Seahorse.xml"/>
+	<npc name="Captain Sinbeard" file="Captain Sinbeard.xml"/>
+	<npc name="Captain Waverider" file="Captain Waverider.xml"/>
+	<npc name="Captain WaveriderIsland" file="Captain WaveriderIsland.xml"/>
+	<npc name="Caramellia" file="Caramellia.xml"/>
+	<npc name="Carina" file="Carina.xml"/>
+	<npc name="Carlos" file="Carlos.xml"/>
+	<npc name="Carlson" file="Carlson.xml"/>
+	<npc name="Cedrik" file="Cedrik.xml"/>
+	<npc name="Ceiron" file="Ceiron.xml"/>
+	<npc name="Cerdras" file="Cerdras.xml"/>
+	<npc name="Chantalle" file="Chantalle.xml"/>
+	<npc name="Charles" file="Charles.xml"/>
+	<npc name="Charlito" file="Charlito.xml"/>
+	<npc name="Charlotta" file="Charlotta.xml"/>
+	<npc name="Charos" file="Charos.xml"/>
+	<npc name="Chartan" file="Chartan.xml"/>
+	<npc name="Chatterbone" file="Chatterbone.xml"/>
+	<npc name="Chavis" file="Chavis.xml"/>
+	<npc name="Chemar" file="Chemar.xml"/>
+	<npc name="Chephan" file="Chephan.xml"/>
+	<npc name="Chester Kahs" file="Chester Kahs.xml"/>
+	<npc name="Chief Grarkharok" file="Chief Grarkharok.xml"/>
+	<npc name="Chondur" file="Chondur.xml"/>
+	<npc name="Chrak" file="Chrak.xml"/>
+	<npc name="Christine" file="Christine.xml"/>
+	<npc name="Christoph" file="Christoph.xml"/>
+	<npc name="Chrystal" file="Chrystal.xml"/>
+	<npc name="Chuck The Worker" file="Chuck The Worker.xml"/>
+	<npc name="Chuckles" file="Chuckles.xml"/>
+	<npc name="Cillia" file="Cillia.xml"/>
+	<npc name="Cipfried" file="Cipfried.xml"/>
+	<npc name="Clark" file="Clark.xml"/>
+	<npc name="Clyde" file="Clyde.xml"/>
+	<npc name="Cobra" file="CobraNPC.xml"/>
+	<npc name="Commander Stone" file="Commander Stone.xml"/>
+	<npc name="Cornelia" file="Cornelia.xml"/>
+	<npc name="Costello" file="Costello.xml"/>
+	<npc name="Curos" file="Curos.xml"/>
+	<!-- NPCS letra D
+	-->
+	<npc name="Dabui" file="Dabui.xml"/>
+	<npc name="Dagomir" file="Dagomir.xml"/>
+	<npc name="Dalbrect" file="Dalbrect.xml"/>
+	<npc name="Dallheim" file="Dallheim.xml"/>
+	<npc name="Dane" file="Dane.xml"/>
+	<npc name="Daniel Steelsoul" file="Daniel Steelsoul.xml"/>
+	<npc name="Dankwart" file="Dankwart.xml"/>
+	<npc name="Danlon" file="Danlon.xml"/>
+	<npc name="Dario" file="Dario.xml"/>
+	<npc name="Dermot" file="Dermot.xml"/>
+	<npc name="Deruno" file="Deruno.xml"/>
+	<npc name="Dimral" file="Dimral.xml"/>
+	<npc name="Dixi" file="Dixi.xml"/>
+	<npc name="Djema" file="Djema.xml"/>
+	<npc name="Doctor Gnomedix" file="Doctor Gnomedix.xml"/>
+	<npc name="Donald McRonald" file="Donald McRonald.xml"/>
+	<npc name="Donald" file="Donald.xml"/>
+	<npc name="Dorbin" file="Dorbin.xml"/>
+	<npc name="Dorian" file="Dorian.xml"/>
+	<npc name="Doubleday" file="Doubleday.xml"/>
+	<npc name="Doug" file="Doug.xml"/>
+	<npc name="Dove" file="Dove.xml"/>
+	<npc name="Dreadeye" file="Dreadeye.xml"/>
+	<npc name="Dream Butterfly" file="Dream Butterfly.xml"/>
+	<npc name="Drog" file="Drog.xml"/>
+	<npc name="Dronk" file="Dronk.xml"/>
+	<npc name="Dukosch" file="Dukosch.xml"/>
+	<npc name="Duncan" file="Duncan.xml"/>
+	<npc name="Duria" file="Duria.xml"/>
+	<npc name="Dustrunner" file="Dustrunner.xml"/>
+	<npc name="Ebenizer" file="Ebenizer.xml"/>
+	<!-- NPCS letra E
+	-->
+	<npc name="Ebenizer" file="Ebenizer.xml"/>
+	<npc name="Eclesius" file="Eclesius.xml"/>
+	<npc name="Edala" file="Edala.xml"/>
+	<npc name="Eddy" file="Eddy.xml"/>
+	<npc name="Edmund" file="Edmund.xml"/>
+	<npc name="Edoch" file="Edoch.xml"/>
+	<npc name="Edowir" file=".xml"/>
+	<npc name="Edron Guardsman" file="Edron Guardsman.xml"/>
+	<npc name="Edvard" file="Edvard.xml"/>
+	<npc name="Eighty" file="Eighty.xml"/>
+	<npc name="Eirik" file="Eirik.xml"/>
+	<npc name="Elane" file="Elane.xml"/>
+	<npc name="Elathriel" file="Elathriel.xml"/>
+	<npc name="Eleonore" file="Eleonore.xml"/>
+	<npc name="Elf Guard" file="Elf Guard.xml"/>
+	<npc name="Elvith" file="Elvith.xml"/>
+	<npc name="Elyen Ravenlock" file="Elyen Ravenlock.xml"/>
+	<npc name="Emily" file="Emily.xml"/>
+	<npc name="Emma" file="Emma.xml"/>
+	<npc name="Emperor Kruzak" file="Emperor Kruzak.xml"/>
+	<npc name="Emperor Rehal" file="Emperor Rehal.xml"/>
+	<npc name="Eranth" file="Eranth.xml"/>
+	<npc name="Erayo" file="Erayo.xml"/>
+	<npc name="Eremo" file="Eremo.xml"/>
+	<npc name="Eroth" file="Eroth.xml"/>
+	<npc name="Eruaran" file="Eruaran.xml"/>
+	<npc name="Eryn" file="Eryn.xml"/>
+	<npc name="Esrik" file="Esrik.xml"/>
+	<npc name="Ethan" file="Ethan.xml"/>
+	<npc name="Etzel" file="Etzel.xml"/>
+	<npc name="Eva" file="Eva.xml"/>
+	<npc name="Evan" file="Evan.xml"/>
+	<npc name="Ezean" file="Ezean.xml"/>
+	<npc name="Ezebeth" file="Ezebeth.xml"/>
+	<!-- NPCS letra F
+	-->
+	<npc name="Fa'Hradin" file="Fa'Hradin.xml"/>
+	<npc name="Faldo" file="Faldo.xml"/>
+	<npc name="Falk" file="Falk.xml"/>
+	<npc name="Falonzo" file="Falonzo.xml"/>
+	<npc name="Faluae" file="Faluae.xml"/>
+	<npc name="Fayla" file="Fayla.xml"/>
+	<npc name="Feizuhl" file="Feizuhl.xml"/>
+	<npc name="Fenbala" file="Fenbala.xml"/>
+	<npc name="Fenech" file="Fenech.xml"/>
+	<npc name="Fergus" file="Fergus.xml"/>
+	<npc name="Ferks" file="Ferks.xml"/>
+	<npc name="Ferryman Kamil Meluna" file="Ferryman Kamil Meluna.xml"/>
+	<npc name="Ferryman Kamil" file="Ferryman Kamil.xml"/>
+	<npc name="Ferus" file="Ferus.xml"/>
+	<npc name="Fillias" file="Fillias.xml"/>
+	<npc name="Finarfin" file="Finarfin.xml"/>
+	<npc name="Fiona" file="Fiona.xml"/>
+	<npc name="Flint" file="Flint.xml"/>
+	<npc name="Florentine" file="Florentine.xml"/>
+	<npc name="Frafnar" file="Frafnar.xml"/>
+	<npc name="Frank The Plank" file="Frank The Plank.xml"/>
+	<npc name="Frans" file="Frans.xml"/>
+	<npc name="Frederik" file="Frederik.xml"/>
+	<npc name="Freezhild" file="Freezhild.xml"/>
+	<npc name="Frodo" file="Frodo.xml"/>
+	<npc name="Fynn" file="Fynn.xml"/>
+	<npc name="Fyodor" file="Fyodor.xml"/>
+	<!-- NPCS letra G
+	-->
+	<npc name="Gabel" file=".Gabelxml"/>
+	<npc name="Gail" file="Gail.xml"/>
+	<npc name="Galuna" file="Galuna.xml"/>
+	<npc name="Gamel" file="Gamel.xml"/>
+	<npc name="Gamon" file="Gamon.xml"/>
+	<npc name="Gate Guardian" file="Gate Guardian.xml"/>
+	<npc name="Gederas" file="Gederas.xml"/>
+	<npc name="Gelagos" file="Gelagos.xml"/>
+	<npc name="George The Boyscout" file="George The Boyscout.xml"/>
+	<npc name="Gewen" file="Gewen.xml"/>
+	<npc name="Ghost Of A Priest" file="Ghost Of A Priest.xml"/>
+	<npc name="Ghostly Woman" file="Ghostly Woman.xml"/>
+	<npc name="Gnomad" file="Gnomad.xml"/>
+	<npc name="Gnomailion" file="Gnomailion.xml"/>
+	<npc name="Gnomally" file="Gnomally.xml"/>
+	<npc name="Gnomargery" file="Gnomargery.xml"/>
+	<npc name="Gnomaticus" file="Gnomaticus.xml"/>
+	<npc name="Gnombold" file="Gnombold.xml"/>
+	<npc name="Gnome Trooper1" file="Gnome Trooper1.xml"/>
+	<npc name="Gnome Trooper2" file="Gnome Trooper2.xml"/>
+	<npc name="Gnome Trooper3" file="Gnome Trooper3.xml"/>
+	<npc name="Gnome Trooper4" file="Gnome Trooper4.xml"/>
+	<npc name="Gnome Trooper5" file="Gnome Trooper5.xml"/>
+	<npc name="Gnome" file="Gnome.xml"/>
+	<npc name="Gnomegica" file="Gnomegica.xml"/>
+	<npc name="Gnomejam" file="Gnomejam.xml"/>
+	<npc name="Gnomelvis" file="Gnomelvis.xml"/>
+	<npc name="Gnomenursey" file="Gnomenursey.xml"/>
+	<npc name="Gnomeral" file="Gnomeral.xml"/>
+	<npc name="Gnomercy" file="Gnomercy.xml"/>
+	<npc name="Gnomerik" file="Gnomerik.xml"/>
+	<npc name="Gnomerrow" file="Gnomerrow.xml"/>
+	<npc name="Gnomespector" file="Gnomespector.xml"/>
+	<npc name="Gnomette" file="Gnomette.xml"/>
+	<npc name="Gnomewart" file="Gnomewart.xml"/>
+	<npc name="Gnomillion" file="Gnomillion.xml"/>
+	<npc name="Gnomilly" file="Gnomilly.xml"/>
+	<npc name="Gnomincia" file="Gnomincia.xml"/>
+	<npc name="Gnominus" file="Gnominus.xml"/>
+	<npc name="Gnomission" file="Gnomission.xml"/>
+	<npc name="Gnommander" file="Gnommander.xml"/>
+	<npc name="Gnomole" file="Gnomole.xml"/>
+	<npc name="Gnomux" file="Gnomux.xml"/>
+	<npc name="Golem Guardian" file="Golem Guardian.xml"/>
+	<npc name="Gordon" file="Gordon.xml"/>
+	<npc name="Gorn" file="Gorn.xml"/>
+	<npc name="Graham" file="Graham.xml"/>
+	<npc name="Graubart" file="Graubart.xml"/>
+	<npc name="Gree Dee" file="Gree Dee.xml"/>
+	<npc name="Greg" file="Greg.xml"/>
+	<npc name="Gregor" file="Gregor.xml"/>
+	<npc name="Grizzly Adams" file="Grizzly Adams.xml"/>
+	<npc name="Grodrik" file="Grodrik.xml"/>
+	<npc name="Grombur" file="Grombur.xml"/>
+	<npc name="Guide Alexena" file="Guide Alexena.xml"/>
+	<npc name="Guide Behil" file="Guide Behil.xml"/>
+	<npc name="Guide Davina" file="Guide Davina.xml"/>
+	<npc name="Guide Edna" file="Guide Edna.xml"/>
+	<npc name="Guide Elena" file="Guide Elena.xml"/>
+	<npc name="Guide Jonathan" file="Guide Jonathan.xml"/>
+	<npc name="Guide Kunibert" file="Guide Kunibert.xml"/>
+	<npc name="Guide Luke" file="Guide Luke.xml"/>
+	<npc name="Guide Rahlkora" file="Guide Rahlkora.xml"/>
+	<npc name="Guide Thelandil" file="Guide Thelandil.xml"/>
+	<npc name="Guide Tiko" file="Guide Tiko.xml"/>
+	<npc name="Gundralph" file="Gundralph.xml"/>
+	<npc name="Gurbasch" file="Gurbasch.xml"/>
+	<!-- NPCS letra H
+	-->
+	<npc name="H.L." file="H.L..xml"/>
+	<npc name="Habdel" file="Habdel.xml"/>
+	<npc name="Hagor" file="Hagor.xml"/>
+	<npc name="Hairycles" file="Hairycles.xml"/>
+	<npc name="Hal" file="Hal.xml"/>
+	<npc name="Halif" file="Halif.xml"/>
+	<npc name="Halvar" file="Halvar.xml"/>
+	<npc name="Hamilton" file="Hamilton.xml"/>
+	<npc name="Hanna" file="Hanna.xml"/>
+	<npc name="Hardek" file="Hardek.xml"/>
+	<npc name="Harkath Bloodblade" file="Harkath Bloodblade.xml"/>
+	<npc name="Harlow Vengoth" file="Harlow Vengoth.xml"/>
+	<npc name="Harlow" file="Harlow.xml"/>
+	<npc name="HarlowTrade" file="HarlowTrade.xml"/>
+	<npc name="Harog" file="Harog.xml"/>
+	<npc name="Haroun" file="Haroun.xml"/>
+	<npc name="Harsky" file="Harsky.xml"/>
+	<npc name="Hauron" file="Hauron.xml"/>
+	<npc name="Hawkyr" file="Hawkyr.xml"/>
+	<npc name="Helor" file="Helor.xml"/>
+	<npc name="Henricus" file="Henricus.xml"/>
+	<npc name="Herbert" file="Herbert.xml"/>
+	<npc name="Hjaern" file="Hjaern.xml"/>
+	<npc name="Hofech" file="Hofech.xml"/>
+	<npc name="Hoggle" file="Hoggle.xml"/>
+	<npc name="Hugo" file="Hugo.xml"/>
+	<npc name="Humgolf" file="Humgolf.xml"/>
+	<npc name="Humphrey" file="Humphrey.xml"/>
+	<npc name="Huntsman" file="Huntsman.xml"/>
+	<npc name="Hyacinth" file="Hyacinth.xml"/>
+	<!-- NPCS letra I
+	-->
+	<npc name="Imalas" file="Imalas.xml"/>
+	<npc name="Imbul" file="Imbul.xml"/>
+	<npc name="Irea" file="Irea.xml"/>
+	<npc name="Iriana" file="Iriana.xml"/>
+	<npc name="Irmana" file="Irmana.xml"/>
+	<npc name="Irvin" file="Irvin.xml"/>
+	<npc name="Ishebad" file="Ishebad.xml"/>
+	<npc name="Ishina" file="Ishina.xml"/>
+	<npc name="Isimov" file="Isimov.xml"/>
+	<npc name="Iskan" file="Iskan.xml"/>
+	<npc name="Isolde" file="Isolde.xml"/>
+	<npc name="Iwan" file="Iwan.xml"/>
+	<npc name="Iwar" file="Iwar.xml"/>
+	<npc name="Iyad" file="Iyad.xml"/>	
+	<npc name="Izsh" file="Izsh.xml"/>
+	<!-- NPCS letra J
+	-->
+	<npc name="Jack Fate Goroma" file="Jack Fate Goroma.xml"/>
+	<npc name="Jack Fate" file="Jack Fate.xml"/>
+	<npc name="Jack The Worker" file="Jack The Worker.xml"/>
+	<npc name="Jacob" file="Jacob.xml"/>
+	<npc name="Jagran" file="Jagran.xml"/>
+	<npc name="Jakahr" file="Jakahr.xml"/>
+	<npc name="James" file="James.xml"/>
+	<npc name="James" file="James.xml"/>
+	<npc name="Janz" file="Janz.xml"/>
+	<npc name="Jason" file="Jason.xml"/>
+	<npc name="Jean Claude" file="Jean Claude.xml"/>
+	<npc name="Jean Pierre" file="Jean Pierre.xml"/>
+	<npc name="Jefrey" file="Jefrey.xml"/>
+	<npc name="Jenova" file="Jenova.xml"/>
+	<npc name="Jerom" file="Jerom.xml"/>
+	<npc name="Jessica" file="Jessica.xml"/>
+	<npc name="Jezzara" file="Jezzara.xml"/>
+	<npc name="Jimbin" file="Jimbin.xml"/>
+	<npc name="Jimmy" file="Jimmy.xml"/>
+	<npc name="John" file="John.xml"/>
+	<npc name="Jondrin" file="Jondrin.xml"/>
+	<npc name="Jorge" file="Jorge.xml"/>
+	<npc name="Julian" file="Julian.xml"/>
+	<npc name="Julio" file="Julio.xml"/>
+	<npc name="Julius" file="Julius.xml"/>
+	<npc name="Junkar" file="Junkar.xml"/>
+	<!-- NPCS letra K
+	-->
+	<npc name="Kalvin" file="Kalvin.xml"/>	
+	<npc name="Karith" file="Karith.xml"/>
+	<npc name="Karl" file="Karl.xml"/>
+	<npc name="Kasmir" file="Kasmir.xml"/>
+	<npc name="Kawill" file="Kawill.xml"/>
+	<npc name="Kazzan" file="Kazzan.xml"/>
+	<npc name="Kepar" file="Kepar.xml"/>
+	<npc name="Kevin" file="Kevin.xml"/>
+	<npc name="King Tibianus" file="King Tibianus.xml"/>
+	<npc name="Kjesse" file="Kjesse.xml"/>
+	<npc name="Klaus" file="Klaus.xml"/>
+	<npc name="Knight Hykrion" file="Knight Hykrion.xml"/>
+	<npc name="Kroox" file="Kroox.xml"/>
+	<!-- NPCS letra L
+	-->
+	<npc name="Lailene" file="Lailene.xml"/>
+	<npc name="Larfion the Shaman" file="Larfion the Shaman.xml"/>
+	<npc name="Lazaran" file="Lazaran.xml"/>
+	<npc name="Lea" file="Lea.xml"/>
+	<npc name="Lector" file="Lector.xml"/>
+	<npc name="Lee'Delle" file="Lee'Delle.xml"/>
+	<npc name="Leeland" file="Leeland.xml"/>
+	<npc name="Legola" file="Legola.xml"/>
+	<npc name="Liane" file="Liane.xml"/>
+	<npc name="Lightfoot" file="Lightfoot.xml"/>
+	<npc name="Lily" file="Lily.xml"/>
+	<npc name="Lisander" file="Lisander.xml"/>
+	<npc name="Livielle" file="Livielle.xml"/>
+	<npc name="Lizard Tunnel Guard" file="Lizard Tunnel Guard.xml"/>
+	<npc name="Llathriel" file="Llathriel.xml"/>	
+	<npc name="Lokur" file="Lokur.xml"/>
+	<npc name="Lola" file="Lola.xml"/>
+	<npc name="Lorbas" file="Lorbas.xml"/>
+	<npc name="Lorek" file="Lorek.xml"/>
+	<npc name="Loria" file="Loria.xml"/>
+	<npc name="Lorietta" file="Lorietta.xml"/>
+	<npc name="Lou Toose" file="Lou Toose.xml"/>
+	<npc name="Loui" file="Loui.xml"/>
+	<npc name="Lubo" file="Lubo.xml"/>
+	<npc name="Lucius" file="Lucius.xml"/>
+	<npc name="Lugri" file="Lugri.xml"/>
+	<npc name="Lukosch" file="Lukosch.xml"/>
+	<npc name="Luna" file="Luna.xml"/>
+	<npc name="Lunch" file="Lunch.xml"/>
+	<npc name="Lungelen" file="Lungelen.xml"/>
+	<npc name="Lurik" file="Lurik.xml"/>
+	<npc name="Lynda" file="Lynda.xml"/>
+	<npc name="Lyonel" file="Lyonel.xml"/>
+	<!-- NPCS letra M
+	-->
+	<npc name="Maealil" file="Maealil.xml"/>
+	<npc name="Malor" file="Malor.xml"/>
+	<npc name="Malunga" file="Malunga.xml"/>
+	<npc name="Marcus" file="Marcus.xml"/>
+	<npc name="Maria" file="Maria.xml"/>
+	<npc name="Marina" file="Marina.xml"/>
+	<npc name="Maris" file="Maris.xml"/>
+	<npc name="MarisFenrock" file="MarisFenrock.xml"/>
+	<npc name="MarisForeigner" file="MarisForeigner.xml"/>
+	<npc name="MarisMistrock" file="MarisMistrock.xml"/>
+	<npc name="Maritima" file="Maritima.xml"/>
+	<npc name="Markwin" file="Markwin.xml"/>
+	<npc name="Marlene" file="Marlene.xml"/>
+	<npc name="Maro" file="Maro.xml"/>
+	<npc name="Marvik" file="Marvik.xml"/>
+	<npc name="Marvin" file="Marvin.xml"/>
+	<npc name="Maryza" file="Maryza.xml"/>
+	<npc name="Maun" file="Maun.xml"/>
+	<npc name="Mehkesh" file="Mehkesh.xml"/>
+	<npc name="Melchior" file="Melchior.xml"/>
+	<npc name="Melfar" file="Melfar.xml"/>
+	<npc name="Melian" file="Melian.xml"/>
+	<npc name="Memech" file="Memech.xml"/>
+	<npc name="Menacing Mummy" file="Menacing Mummy.xml"/>
+	<npc name="Meraya" file="Meraya.xml"/>
+	<npc name="Milos" file="Milos.xml"/>
+	<npc name="Mirabell" file="Mirabell.xml"/>
+	<npc name="Miraia" file="Miraia.xml"/>
+	<npc name="Morax" file="Morax.xml"/>
+	<npc name="Mordecai" file="Mordecai.xml"/>
+	<npc name="Morgan" file="Morgan.xml"/>
+	<npc name="Morpel" file="Morpel.xml"/>
+	<npc name="Mortimer" file="Mortimer.xml"/>
+	<npc name="Mortis" file="Mortis.xml"/>
+	<npc name="Morun" file="Morun.xml"/>
+	<npc name="Mr. West" file="Mr. West.xml"/>
+    <npc name="Mugluf" file="Mugluf.xml"/>
+	<npc name="Muhad" file="Muhad.xml"/>
+	<npc name="Muriel" file="Muriel.xml"/>
+	<npc name="Murim" file="Murim.xml"/>
+	<npc name="Muzir" file="Muzir.xml"/>
+	<npc name="Myra" file="Myra.xml"/>
+	<npc name="Mysterious Ornate Chest" file="Mysterious Ornate Chest.xml"/>
+	<!-- NPCS letra N
+	-->
+	<npc name="Nah'bob" file="Nah'bob.xml"/>
+	<npc name="Nahlesar" file="Nahlesar.xml"/>
+	<npc name="Naji" file="Naji.xml"/>
+	<npc name="Navigator" file="Navigator.xml"/>
+	<npc name="Neill" file="Neill.xml"/>
+	<npc name="Nelliem" file="Nelliem.xml"/>
+	<npc name="Nelly" file="Nelly.xml"/>
+	<npc name="Nemal" file="Nemal.xml"/>
+	<npc name="Nezil" file="Nezil.xml"/>
+	<npc name="Nielson" file="Nielson.xml"/>
+	<npc name="Nilsor" file="Nilsor.xml"/>
+	<npc name="Nimral" file="Nimral.xml"/>
+	<npc name="Nina" file="Nina.xml"/>
+	<npc name="Nokmir" file="Nokmir.xml"/>
+	<npc name="Noodles" file="Noodles.xml"/>
+	<npc name="Nor" file="Nor.xml"/>
+	<npc name="Norbert" file="Norbert.xml"/>
+	<npc name="Norf" file="Norf.xml"/>
+	<npc name="Norma" file="Norma.xml"/>
+	<npc name="Norman The Foreman" file="Norman The Foreman.xml"/>
+	<npc name="Norris" file="Norris.xml"/>
+	<npc name="Nurik" file="Nurik.xml"/>
+	<npc name="Nydala" file="Nydala.xml"/>
+	<!-- NPCS letra O
+	-->
+	<npc name="Obi" file="Obi.xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+	<npc name="" file=".xml"/>
+</npcs>
