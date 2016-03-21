@@ -12,15 +12,6 @@
 		<npc name="Ruby" file="ruby.xml"/>
 	-->
 
-	<npc name="The Oracle" file="The Oracle.lua"/>
-	<npc name="Riona" file="Riona.xml"/>
-	<npc name="Soya" file="Soya.xml"/>
-	<npc name="The Forgotten King" file="The Forgotten King.xml"/>
-	<npc name="The Oracle" file="The Oracle.xml"/>
-	<npc name="Timral" file="Timral.xml"/>
-	<npc name="Tyoric" file="Tyoric.xml"/>
-	<npc name="Varkhal" file="Varkhal.xml"/>
-	<npc name="Varkhal_2" file="Varkhal_2.xml"/>
 	<!-- NPCS letra A
 	-->
 	<npc name="A Bearded Woman" file="A Bearded Woman.xml"/>
