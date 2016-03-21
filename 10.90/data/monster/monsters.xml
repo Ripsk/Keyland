@@ -137,6 +137,7 @@
 
 	<!-- Bonelords -->
 	<monster name="Bonelord" file="Bonelords/bonelord.xml" />
+	<monster name="Beholder" file="Bonelords/beholder.xml" />
 	<monster name="Braindeath" file="Bonelords/braindeath.xml" />
 	<monster name="Gazer" file="Bonelords/gazer.xml" />
 	<monster name="Elder Bonelord" file="Bonelords/elder bonelord.xml" />
@@ -843,7 +844,7 @@
 	<monster name="Mad Scientist" file="Sorcerers/mad scientist.xml" />
 	<monster name="Warlock" file="Sorcerers/warlock.xml" />
 	<monster name="Witch" file="Sorcerers/witch.xml" />
-	<monster name="YalahariMonster" file="Sorcerers/yalahari.xml" />
+	<monster name="Yalahari" file="Sorcerers/yalahari.xml" />
 
 	<!-- Traps -->
 	<monster name="a carved stone tile" file="Traps/a carved stone tile.xml" />
@@ -905,7 +906,7 @@
 	<monster name="Evil Sheep Lord" file="Ungulates/evil sheep lord.xml" />
 	<monster name="Evil Sheep" file="Ungulates/evil sheep.xml" />
 	<monster name="Horse" file="Ungulates/horse.xml" />
-	<monster name="Horse1" file="Ungulates/horse(brown).xml" />
+	<monster name="Brown Horse" file="Ungulates/brown horse.xml" />
 	<monster name="Horse3" file="Ungulates/horse(grey).xml" />
 	<monster name="Wild Horse" file="Ungulates/horse(wild).xml" />
 	<monster name="Mammoth" file="Ungulates/mammoth.xml" />
